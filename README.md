@@ -33,4 +33,4 @@ El código fuente y los scripts de base de datos se organizan bajo el estándar 
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/tu-usuario/bc-sql_acuario_allan_benavides.git](https://github.com/tu-usuario/bc-sql_acuario_allan_benavides.git)
+   git clone [https://github.com/Lincoln1986/bc-sql_acuario_allan_benavides.git](https://github.com/Lincoln1986/bc-sql_acuario_allan_benavides.git)
